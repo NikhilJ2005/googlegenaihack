@@ -1,0 +1,8 @@
+
+google-generativeai
+streamlit
+dotenv
+streamlit_mic_recorder
+pytube
+streamlit_player
+pillow
