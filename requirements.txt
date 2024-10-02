@@ -4,4 +4,4 @@ python-dotenv==0.21.0
 streamlit-mic-recorder==0.0.2
 pytube==12.1.0
 streamlit-player==0.1.2
-pillow==9.3.0
+pillow==8.3.0
